@@ -3,8 +3,9 @@
 </div>
 
 <div id="Skills">
-It seems you have found my git profile...Welcome!<br/>
-  I am Luis and I am aiming to become a Full-Stack Developer! I am always trying to improve my skills which you can check below.
+  Hello there! I am Luis!
+  It seems you have found my git profile...Welcome!<br/>
+  I am an aspiring Full-Stack Developer! I am always trying to improve my skills which you can check below.
 
 <h4>Front-End</h4>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original-wordmark.svg" width="50px" height="50px"></img>
@@ -41,5 +42,10 @@ It seems you have found my git profile...Welcome!<br/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows11/windows11-original-wordmark.svg" width="50px" height="50px"></img>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" width="50px" height="50px"></img>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg" width="50px" height="50px"></img>
+
+<h6>Find more about me here!</h6>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](your-linkedin-profile)  
+
 
 </div>
