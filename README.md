@@ -45,7 +45,7 @@
 
 <h6>Find more about me here!</h6>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](your-linkedin-profile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luis-ferreira-1554b2342/)  
 
 
 </div>
